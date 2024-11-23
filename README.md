@@ -1,5 +1,7 @@
 # André Git
 
-Repositório da André
+Repositório do André
 
-> Essa é uma nova etapa 
+> Essa é uma nova etapa: Pergola
+
+
